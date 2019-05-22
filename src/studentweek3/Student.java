@@ -14,6 +14,7 @@ public class Student {
     
     private int Id;
     private String firstname;
+    private int MaxCourse;
 
     /**
      * @return the Id
